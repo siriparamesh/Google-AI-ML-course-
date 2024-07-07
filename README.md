@@ -1,16 +1,14 @@
 # Google-AI-ML-course
 Google for developers(AI and Ml course) <br>
-<li>
-  <ol> 
-Lab1- Program neural networks with TensorFlow
+Lab1- Program neural networks with TensorFlow.
+<li> 1 Program neural networks with TensorFlow
 
-Lab2- Get started with object detection
+2 Get started with object detection
 
-Lab3- Go further with object detection
+3 Go further with object detection
 
-Lab-4 Get started with product image search
+4 Get started with product image search
 
-Lab0-5 Go further with product image search
+5 Go further with product image search
 
-Lab-6 Go further with image classification</ol>
-</li>
+6 Go further with image classification</li>
